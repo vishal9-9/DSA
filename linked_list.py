@@ -39,10 +39,10 @@ if __name__ == "__main__":
     obj.add_node(1)
     obj.add_node(2)
     obj.add_node(3)
-    obj.add_node(3)
-    obj.add_node(3)
-    obj.add_node(3)
-    obj.add_node(3)
+    obj.add_node(4)
+    obj.add_node(5)
+    obj.add_node(6)
+    obj.add_node(7)
 
     obj.show()
 
